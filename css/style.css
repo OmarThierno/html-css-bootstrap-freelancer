@@ -1,0 +1,30 @@
+/* Mobile first  */
+:root{
+  --header-footer-bg: #2C3E50;
+  --color-light-green: #1ABC9C;
+  --color-light-brown: #BA4B63;
+  --color-light-azzurro: #1EA4B6;
+  --color-black: #140F0F;
+  --color-dark-arrurro: #1C83C1;
+  --color-dark-blue: #0E38B5;
+  --color-clear-brown: #CCB2A3;
+  --color-light-blue: #3A546D;
+}
+
+/* Reset */
+img {
+  max-width: 100%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+/* Common */
+/* Layout */
+
+/* Header  */
+
+/* Main  */
+
+/* Footer  */
