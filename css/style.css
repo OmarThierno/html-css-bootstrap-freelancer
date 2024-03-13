@@ -48,3 +48,10 @@ ul {
 }
 
 /* Footer  */
+footer {
+  background-color: var(--header-footer-bg);
+}
+
+.footer-bottom {
+  background-color: var(--color-light-blue);
+}
