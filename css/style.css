@@ -79,8 +79,8 @@ header .my_nav-list ul {
 }
 
 /* Portfolio  */
-#portfolio .row .col-12 {
-  background-color: lightcoral;
+.ms-portfoglio-img {
+  object-fit: ;
 }
 
 /* Footer  */
