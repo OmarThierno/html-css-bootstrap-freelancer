@@ -31,6 +31,9 @@ a {
 }
 
 /* Utilities  */
+.ms_bg-green {
+  background-color: var(--color-light-green);
+}
 
 /* Common */
 /* Layout */
@@ -89,6 +92,13 @@ header .my_nav-list ul {
   width: 100%;
   max-width: 500px;
   margin: 0 auto;
+}
+
+/* Contacts */
+.border-t-l-r-none {
+  border-top: none;
+  border-left: none;
+  border-right: none;
 }
 
 /* Footer  */
