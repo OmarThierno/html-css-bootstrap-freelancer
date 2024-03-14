@@ -27,14 +27,22 @@ ul {
 }
 
 /* Utilities  */
-.my_test-al-c {
-  text-align: center;
-}
 
 /* Common */
 /* Layout */
 
 /* Header  */
+header {
+  height: 80px;
+  background-color: var(--header-footer-bg);
+  color: white;
+  /* line-height: 80px; */
+}
+
+header .my_nav-list ul {
+  height: 100%;
+}
+
 
 /* Main  */
 /* Hero */
