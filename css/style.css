@@ -26,6 +26,10 @@ ul {
   list-style-type: none;
 }
 
+a {
+  color: inherit;
+}
+
 /* Utilities  */
 
 /* Common */
@@ -39,6 +43,10 @@ header {
   /* line-height: 80px; */
 }
 
+.my_bg-header {
+  background-color: var(--header-footer-bg) !important;
+}
+
 header .my_nav-list ul {
   height: 100%;
 }
@@ -48,6 +56,26 @@ header .my_nav-list ul {
 /* Hero */
 #hero {
   background-color: var(--color-light-green);
+}
+
+.ms_hero-container {
+  width: 100%;
+  max-width: 650px;
+  margin: 0 auto;
+}
+
+.ms_hero-img {
+  width: 250px;
+}
+
+.ms_line {
+  width: 100px;
+}
+
+
+.ms_line hr {
+  font-weight: bold;
+  border: 2px solid white;
 }
 
 /* Portfolio  */
