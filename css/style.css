@@ -79,8 +79,16 @@ header .my_nav-list ul {
 }
 
 /* Portfolio  */
-.ms-portfoglio-img {
-  object-fit: ;
+
+/* About */
+#about {
+  background-color: var(--color-light-green);
+}
+
+.ms_about-container {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
 }
 
 /* Footer  */

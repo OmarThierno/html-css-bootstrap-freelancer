@@ -1,0 +1,23 @@
+@media screen and (min-width: 768px) {
+  .ms_about-container {
+    max-width: 500px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .ms_about-container {
+    max-width: 750px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .ms_about-container {
+    max-width: 850px;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .ms_about-container {
+    max-width: 1000px;
+  }
+}
